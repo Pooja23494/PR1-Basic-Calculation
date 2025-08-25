@@ -28,6 +28,9 @@ else
 console.log('Marksheet');
 console.log('-----------');
 console.log(`Student name : ${sname}`);
+console.log(`Maths mark is : ${maths}`);
+console.log(`English mark is: ${english}`);
+console.log(`Science mark is : ${science}`);
 console.log(`Total Marks is: ${total}`);
 console.log(`Percentage is: ${average} %`);
 console.log(`Grade is: ${grade}`);

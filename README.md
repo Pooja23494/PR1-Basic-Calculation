@@ -8,7 +8,7 @@
 
 ### Marksheet
 
-![marksheet](<Screenshot 2025-08-25 190325.png>)
+![marksheet](<Screenshot 2025-08-25 213407.png>)
 
 ### Interest
 
